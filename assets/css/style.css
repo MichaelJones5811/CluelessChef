@@ -1,0 +1,123 @@
+body {
+  background-image: url("background.jpg");
+  background-size: 100%, 5000px;
+}
+
+h1 {
+  font-family: 'Poller One', cursive;
+}
+
+h2 {
+  font-family: 'Poller One', cursive;
+}
+
+h3 {
+  font-family: 'Reem Kufi', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+h5 {
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+}
+
+.jumbotron {
+  background-color: #FFF2CC;
+}
+
+.panel {
+  background-color: #FFF2CC;
+}
+
+label {
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+input {
+  margin-bottom: 8px;
+}
+
+button {
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+#restaurant {
+  margin-bottom: 8px;
+}
+
+#grocery {
+  margin-bottom: 8px;
+}
+#search-within-time {
+  margin-top: 8px;
+  font-weight:bold;
+  font-color: #38761D;
+}
+
+.text {
+   font-family: 'Reem Kufi', sans-serif;
+}
+
+p {
+  font-family: 'Reem Kufi', sans-serif;
+}
+
+.navbar {
+  font-family: 'Reem Kufi', sans-serif;
+  height: 51px;
+}
+
+#txtEmail{
+  font-weight: 900;
+  color: #333
+}
+#txtPassword{
+  font-weight: 900;
+  color: #333
+}
+#userEmail{
+  font-weight: 900;
+}
+
+.well {
+  height: 20px;
+}
+
+#map {
+  height: 370px;
+}
+
+.meals {
+  margin: 3px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 22px;
+}
+
+#ingredientPanel {
+  margin-top: 6px;
+  background-image: url("background2.jpg");
+  background-repeat: no-repeat;
+}
+
+.item {
+  margin: 5px;
+  text-align: center;
+}
+  
+.meals:hover {
+ color: red;
+}
+#logInEmail{
+  color: yellow;
+  padding-bottom:  0;
+
+}
